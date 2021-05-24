@@ -10,7 +10,7 @@ Supplement the application / web application by implementing the construction of
 ![G](1.jpg)
 
 ## the requirements 
-* win10 latest versionr
+* win10 latest version
 
 ## Installation and usage
 
